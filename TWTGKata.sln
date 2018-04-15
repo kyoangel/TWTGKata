@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramDetection", "Anagram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramDetectionTests", "AnagramDetectionTests\AnagramDetectionTests.csproj", "{219ABEDC-D295-4A93-9732-0F8BF7400E11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParkEscape", "CarParkEscape\CarParkEscape.csproj", "{76E34E31-AA8C-46EF-914C-3E449BD12637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParkEscapeTests", "CarParkEscapeTests\CarParkEscapeTests.csproj", "{8A6F7F39-60FB-4C71-B35F-9855C583AC68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E34E31-AA8C-46EF-914C-3E449BD12637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E34E31-AA8C-46EF-914C-3E449BD12637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E34E31-AA8C-46EF-914C-3E449BD12637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E34E31-AA8C-46EF-914C-3E449BD12637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
