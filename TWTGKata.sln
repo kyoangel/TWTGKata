@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParkEscape", "CarParkEsc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParkEscapeTests", "CarParkEscapeTests\CarParkEscapeTests.csproj", "{8A6F7F39-60FB-4C71-B35F-9855C583AC68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSum", "LargestSum\LargestSum.csproj", "{BEC68A42-75E3-4406-B454-ADC2395DD358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSumTests", "LargestSumTests\LargestSumTests.csproj", "{289BB83E-9457-4C46-B8B5-E07955493086}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6F7F39-60FB-4C71-B35F-9855C583AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC68A42-75E3-4406-B454-ADC2395DD358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC68A42-75E3-4406-B454-ADC2395DD358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC68A42-75E3-4406-B454-ADC2395DD358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC68A42-75E3-4406-B454-ADC2395DD358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289BB83E-9457-4C46-B8B5-E07955493086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289BB83E-9457-4C46-B8B5-E07955493086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289BB83E-9457-4C46-B8B5-E07955493086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289BB83E-9457-4C46-B8B5-E07955493086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
