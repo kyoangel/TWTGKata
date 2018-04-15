@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortOdd", "SortOdd\SortOdd.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortOddTests", "SortOddTests\SortOddTests.csproj", "{757DD9E5-1D53-435B-8683-D06467519C64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramDetection", "AnagramDetection\AnagramDetection.csproj", "{8464FE24-12EE-4D5B-AF6C-3F96E089047C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramDetectionTests", "AnagramDetectionTests\AnagramDetectionTests.csproj", "{219ABEDC-D295-4A93-9732-0F8BF7400E11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{757DD9E5-1D53-435B-8683-D06467519C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757DD9E5-1D53-435B-8683-D06467519C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757DD9E5-1D53-435B-8683-D06467519C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8464FE24-12EE-4D5B-AF6C-3F96E089047C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8464FE24-12EE-4D5B-AF6C-3F96E089047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8464FE24-12EE-4D5B-AF6C-3F96E089047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8464FE24-12EE-4D5B-AF6C-3F96E089047C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219ABEDC-D295-4A93-9732-0F8BF7400E11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
