@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMissingTermInAP", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMissingTermInAPTests", "FindTheMissingTermInAPTests\FindTheMissingTermInAPTests.csproj", "{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multies3Or5", "Multies3Or5\Multies3Or5.csproj", "{D7790D0F-DB38-4951-9881-75950288F494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multies3Or5Tests", "Multies3Or5Tests\Multies3Or5Tests.csproj", "{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7790D0F-DB38-4951-9881-75950288F494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7790D0F-DB38-4951-9881-75950288F494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7790D0F-DB38-4951-9881-75950288F494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7790D0F-DB38-4951-9881-75950288F494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
