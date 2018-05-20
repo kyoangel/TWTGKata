@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingChangeCombinations"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingChangeCombinationsTests", "CountingChangeCombinationsTests\CountingChangeCombinationsTests.csproj", "{032A34A2-E8AB-4704-9685-8EF8DE5ADD3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{3B4C2962-C22F-4780-BC42-FC6E440CF62F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{032A34A2-E8AB-4704-9685-8EF8DE5ADD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{032A34A2-E8AB-4704-9685-8EF8DE5ADD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{032A34A2-E8AB-4704-9685-8EF8DE5ADD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4C2962-C22F-4780-BC42-FC6E440CF62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4C2962-C22F-4780-BC42-FC6E440CF62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4C2962-C22F-4780-BC42-FC6E440CF62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4C2962-C22F-4780-BC42-FC6E440CF62F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
