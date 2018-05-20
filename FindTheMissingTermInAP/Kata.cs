@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace FindTheMissingTermInAP
 {
@@ -6,7 +7,27 @@ namespace FindTheMissingTermInAP
     {
         public static int FindMissing(List<int> list)
         {
-            return list[0];
+            if (!list.Any())
+            {
+                return 0;
+            }
+            var sum = (list.First() + list.Last());
+            while (list.Count > 1)
+            {
+                var target = list.First();
+                var candidate = sum - target;
+                if (list.Contains(candidate))
+                {
+                    list.Remove(target);
+                    list.Remove(candidate);
+                }
+                else
+                {
+                    return candidate;
+                }
+
+            }
+            return sum - list.Single();
         }
     }
 }

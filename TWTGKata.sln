@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangleTests", "Pasc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMissingTermInAP", "FindTheMissingTermInAP\FindTheMissingTermInAP.csproj", "{07BB40D4-AF9A-4CF9-943C-01CCF55C3AF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMissingTermInAPTests", "FindTheMissingTermInAPTests\FindTheMissingTermInAPTests.csproj", "{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{07BB40D4-AF9A-4CF9-943C-01CCF55C3AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BB40D4-AF9A-4CF9-943C-01CCF55C3AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BB40D4-AF9A-4CF9-943C-01CCF55C3AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA6B487-82D3-4ADC-9EE8-69D6D478D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
