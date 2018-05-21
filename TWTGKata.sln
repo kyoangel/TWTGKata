@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multies3Or5", "Multies3Or5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multies3Or5Tests", "Multies3Or5Tests\Multies3Or5Tests.csproj", "{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWord", "ReverseWord\ReverseWord.csproj", "{B04488CA-22AE-4C5B-97A9-C3572EDD41C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordTests", "ReverseWordTests\ReverseWordTests.csproj", "{0C0A9950-0037-4714-A645-FF584659BC21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E6A029-AA2D-45B8-91E5-91CFCB28A4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04488CA-22AE-4C5B-97A9-C3572EDD41C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04488CA-22AE-4C5B-97A9-C3572EDD41C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04488CA-22AE-4C5B-97A9-C3572EDD41C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04488CA-22AE-4C5B-97A9-C3572EDD41C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0A9950-0037-4714-A645-FF584659BC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0A9950-0037-4714-A645-FF584659BC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0A9950-0037-4714-A645-FF584659BC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0A9950-0037-4714-A645-FF584659BC21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
