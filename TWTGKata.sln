@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWord", "ReverseWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordTests", "ReverseWordTests\ReverseWordTests.csproj", "{0C0A9950-0037-4714-A645-FF584659BC21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestRankNumber", "HighestRankNumber\HighestRankNumber.csproj", "{5A62C914-2F14-42CB-B295-DD8396F2F9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestRankNumberTests", "HighestRankNumberTests\HighestRankNumberTests.csproj", "{776E5BD8-D96D-427D-90E8-86B37224315B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{0C0A9950-0037-4714-A645-FF584659BC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0A9950-0037-4714-A645-FF584659BC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0A9950-0037-4714-A645-FF584659BC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A62C914-2F14-42CB-B295-DD8396F2F9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A62C914-2F14-42CB-B295-DD8396F2F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A62C914-2F14-42CB-B295-DD8396F2F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A62C914-2F14-42CB-B295-DD8396F2F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776E5BD8-D96D-427D-90E8-86B37224315B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E5BD8-D96D-427D-90E8-86B37224315B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E5BD8-D96D-427D-90E8-86B37224315B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E5BD8-D96D-427D-90E8-86B37224315B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
